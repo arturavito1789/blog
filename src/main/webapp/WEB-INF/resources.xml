@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tomee>
+
+ <Resource id="ContactDSJta" type="javax.sql.DataSource">
+    JdbcDriver = org.postgresql.Driver
+    JdbcUrl = jdbc:postgresql://ec2-107-21-216-112.compute-1.amazonaws.com:5432/da4onhva2erq1h
+    UserName = pxwyfqinrfzznn
+    Password = 8c0a84bcb38750741a87b111a4cf0446732336f4240ff641dcb744d1930a96ec
+    jtaManaged = true
+  </Resource> 
+
+</tomee>
